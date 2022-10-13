@@ -20,6 +20,6 @@ This project simulates a set of flash cards through the command line. A user can
 2. Clone down you new, forked repository
 3. In the terminal cd into the repository and install the library dependencies by running `npm install'
 4. Open it in your text editor to view the code
-5. Run 'npm test' to view the tests in the console
+5. Run `npm test` to view the tests in the console
 6. Run `node index.js` in your console to use the flashcard deck
 
